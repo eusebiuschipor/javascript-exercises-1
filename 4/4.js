@@ -1,0 +1,4 @@
+/*
+    Read the hour from prompt and show the specific welcome message depending on the hour.
+    Read the current hour in a prompt window and show the specific welcome message depending on the hour.
+*/
